@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1089760369116",
+    "project_id": "chaudhary-chicken",
+    "storage_bucket": "chaudhary-chicken.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089760369116:android:a1c743e60945e9959f1719",
+        "android_client_info": {
+          "package_name": "com.miyal.chaudhary_chicken_users_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089760369116-v6f3ujr3ofo67v4kkidrf8vnsdhfk9ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuyJ8RHlNwFm_srZJg4B8UKhpR9wir77g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089760369116-v6f3ujr3ofo67v4kkidrf8vnsdhfk9ir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089760369116-4mdftcpd0kf3q60pnj1h9l7485bbrbvc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.miyal.sellerApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089760369116:android:146a24b1887ac7209f1719",
+        "android_client_info": {
+          "package_name": "com.miyal.sellerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089760369116-v6f3ujr3ofo67v4kkidrf8vnsdhfk9ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuyJ8RHlNwFm_srZJg4B8UKhpR9wir77g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089760369116-v6f3ujr3ofo67v4kkidrf8vnsdhfk9ir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089760369116-4mdftcpd0kf3q60pnj1h9l7485bbrbvc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.miyal.sellerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
